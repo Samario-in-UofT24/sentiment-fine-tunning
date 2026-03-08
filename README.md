@@ -1,6 +1,6 @@
 # IMDb Sentiment Analysis with Fine-tuned RoBERTa
 
-> Fine-tuning a 125M parameter transformer model on 25,000 movie reviews to classify sentiment — achieving **94.2% test accuracy** with balanced precision and recall across both classes.
+> Purely AI instructed LOL
 
 ---
 
